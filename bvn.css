@@ -60,7 +60,7 @@ text-align:left;
 .illustration{
   width:80%;
 }
-input[type="text"]{
+input[type="number"]{
   margin:0.2rem 0;
   padding:2rem 1rem;
 }
@@ -183,7 +183,7 @@ color: #02354E;
   .illustration{
     display: none;
   }
-  input[type="text"]{
+  input[type="number"]{
     padding:1.5rem 1rem;
     font-size:12px;
     margin:0;
